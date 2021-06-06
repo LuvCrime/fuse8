@@ -1,0 +1,79 @@
+@import "../../utils/styles/styles.scss";
+
+.card-item {
+  width: 379px;
+  height: 381px;
+}
+
+.card-item__info__title,
+.card-item__info__price_highlight {
+  font-family: Open Sans, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.card-item__info__price_highlight {
+    padding-left: 5px
+}
+
+.card-item__info__title,
+.card-item__info__address,
+.card-item__info__price,
+.card-item__info__ownership {
+  @extend %text-font;
+}
+
+.card-item__info {
+  padding: 10px 0 10px 22px;
+}
+
+.card-item__info__address,
+.card-item__info__ownership {
+  padding-top: 5px;
+}
+
+.card-item__info__price {
+  padding-top: 10px;
+}
+
+.card-item__info__ownership {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.card-item__image-wrapper {
+  position: relative;
+  height: 233px;
+  width: 379px;
+}
+
+.card-item__type {
+  position: absolute;
+  font-family: Open Sans, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: 0;
+  bottom: 0;
+}
+
+.card-item__type_independentLiving {
+  background: #006f79;
+  width: 134px;
+  height: 30px;
+}
+
+.card-item__type_supportAvailable {
+  background: #ec6608;
+  width: 204px;
+  height: 30px;
+}
