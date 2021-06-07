@@ -5,7 +5,7 @@ import { ProductPage } from "../ProductPage/ProductPage"
 
 const App = () => {
   return (
-    <Router>
+    <Router  basename="/fuse8">
       <Switch>
       <Route path="/" exact component={Homepage} />
       <Route path="/details/id" exact component={ProductPage} />
