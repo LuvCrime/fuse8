@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fuse8/static/css/main.fef078ce.chunk.css",
+    "main.css": "/fuse8/static/css/main.cc3cbc84.chunk.css",
     "main.js": "/fuse8/static/js/main.147c2f1b.chunk.js",
     "main.js.map": "/fuse8/static/js/main.147c2f1b.chunk.js.map",
     "runtime-main.js": "/fuse8/static/js/runtime-main.2fdf9014.js",
@@ -10,13 +10,13 @@
     "static/js/3.b6b62fd4.chunk.js": "/fuse8/static/js/3.b6b62fd4.chunk.js",
     "static/js/3.b6b62fd4.chunk.js.map": "/fuse8/static/js/3.b6b62fd4.chunk.js.map",
     "index.html": "/fuse8/index.html",
-    "static/css/main.fef078ce.chunk.css.map": "/fuse8/static/css/main.fef078ce.chunk.css.map",
+    "static/css/main.cc3cbc84.chunk.css.map": "/fuse8/static/css/main.cc3cbc84.chunk.css.map",
     "static/js/2.600d60dd.chunk.js.LICENSE.txt": "/fuse8/static/js/2.600d60dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2fdf9014.js",
     "static/js/2.600d60dd.chunk.js",
-    "static/css/main.fef078ce.chunk.css",
+    "static/css/main.cc3cbc84.chunk.css",
     "static/js/main.147c2f1b.chunk.js"
   ]
 }
