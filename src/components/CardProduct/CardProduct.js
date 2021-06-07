@@ -1,3 +1,4 @@
+import React from "react";
 import "./CardProduct.scss";
 
 export const CardProduct = (props) => {
@@ -9,6 +10,7 @@ export const CardProduct = (props) => {
           src="https://via.placeholder.com/300x150/FF0000/FFFFFF?text=title"
           width="379px"
           height="233px"
+          alt="card item"
         ></img>
         <div className={`card-item__type ${props.productItem.type === "IndependentLiving" ? "card-item__type_independentLiving" : "card-item__type_supportAvailable"}`}>
           {props.productItem.type === "IndependentLiving"

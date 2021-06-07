@@ -56,6 +56,10 @@
   padding-bottom: 150px;
 }
 
+.products_reduce-padding {
+  padding-bottom: 60px;
+}
+
 .homepage__developments {
   @extend %main-top-header-font;
   margin: 35px 0 45px 0;
@@ -102,7 +106,7 @@
   } 
 }
 
-.homepage__see-more-hidden {
+.homepage__see-more_hidden {
   display: none;
 }
 
@@ -114,4 +118,14 @@
     box-sizing: border-box;
     width: 379px;
     height: 381px;
+}
+
+//mobile 
+
+.products-mobile {
+  flex-direction: column;
+}
+
+.content-wrapper-mobile {
+  align-items: center;
 }
