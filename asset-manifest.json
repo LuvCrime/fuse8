@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fuse8/static/css/main.fef078ce.chunk.css",
-    "main.js": "/fuse8/static/js/main.aef7593f.chunk.js",
-    "main.js.map": "/fuse8/static/js/main.aef7593f.chunk.js.map",
+    "main.js": "/fuse8/static/js/main.147c2f1b.chunk.js",
+    "main.js.map": "/fuse8/static/js/main.147c2f1b.chunk.js.map",
     "runtime-main.js": "/fuse8/static/js/runtime-main.2fdf9014.js",
     "runtime-main.js.map": "/fuse8/static/js/runtime-main.2fdf9014.js.map",
     "static/js/2.600d60dd.chunk.js": "/fuse8/static/js/2.600d60dd.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2fdf9014.js",
     "static/js/2.600d60dd.chunk.js",
     "static/css/main.fef078ce.chunk.css",
-    "static/js/main.aef7593f.chunk.js"
+    "static/js/main.147c2f1b.chunk.js"
   ]
 }
